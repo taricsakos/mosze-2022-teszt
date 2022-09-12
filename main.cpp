@@ -22,5 +22,6 @@ int main()
     }
     atlag /= N_ELEMENTS;
     std::cout << "Atlag: " << atlag << std::endl;
+    std::cout << "Why, you stuck-up half-witted scruffy-looking nerf herder." << std::endl;
     return 0;
 }
